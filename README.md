@@ -4,7 +4,6 @@ beecrowd | 1067 - Números Ímpares
 
 Adaptado por Neilor Tonin, URI  Brasil
 
-Timelimit: 1
 Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
 Entrada
